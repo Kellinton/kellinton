@@ -1,20 +1,17 @@
-### Hi there! I'm Kellinton 
-<hr>
-
-- 📌 I’m currently studying *Front-end*
-<hr/>
-
-
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kellinton-gomes-153a5a228) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()-->
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellinton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellinton&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<hr>
+<hr/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellinton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellinton&layout=compact&langs_count=7&theme=dark"/>
+
+<hr/>
+
+
+<img src="https://skillicons.dev/icons?i=github,tailwind,figma,photoshop" />
+
+<hr/>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellinton&layout=compact)--> 
 <!--<div align="center">
