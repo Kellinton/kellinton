@@ -20,7 +20,7 @@
 
 </div>-->
 <!--<div style="display: inline_block"><br/>
-  <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>..
+  <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>...
   
 </div>-->
 
