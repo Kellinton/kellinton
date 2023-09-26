@@ -4,7 +4,9 @@
 
 <hr/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellinton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellinton&layout=compact&langs_count=7&theme=dark"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellinton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --> 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellinton&layout=compact&langs_count=7&theme=dark"/>
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kellinton&show_icons=true&theme=dark" alt="kellinton"/>
