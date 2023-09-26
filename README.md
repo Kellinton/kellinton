@@ -12,7 +12,7 @@
 <hr/>
 
 
-<img src="https://skillicons.dev/icons?i=tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=tailwind,figma,linux" />
 
 <hr/>
 
