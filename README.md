@@ -14,7 +14,7 @@
 <hr/>
 
 
-<img src="https://skillicons.dev/icons?i=tailwind,figma,linux" />
+<img src="https://skillicons.dev/icons?i=tailwind,figma,linux,github,markdown" />
 
 <hr/>
 
